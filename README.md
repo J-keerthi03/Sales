@@ -4,9 +4,13 @@ This project is a sales management system designed to handle the selling and pur
 The key components and technologies used in this project: 
 
 Product Management: Admins can add, update, delete, and view products. Users can view products and make purchases.
+
 User Management: Secure user authentication and authorization using JWT tokens. Admins and users have different access levels.
+
 Profit and Loss Reports: Generate reports to calculate overall profit and loss based on sales and purchases.
+
 Transaction Handling: Track sales and purchases, updating product quantities accordingly.
+
 Technologies Used
 Spring Boot: The framework for building the application.
 Maven: Used for project management and dependency management.
