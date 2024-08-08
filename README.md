@@ -1,8 +1,8 @@
 Sales Management System
 This project is a sales management system designed to handle the selling and purchasing of products, distinguishing between admin and user roles through JWT token generation. The system includes various features, such as generating reports on overall profit and loss.
 
-Below are the key components and technologies used in this project:
-Features
+The key components and technologies used in this project: 
+
 Product Management: Admins can add, update, delete, and view products. Users can view products and make purchases.
 User Management: Secure user authentication and authorization using JWT tokens. Admins and users have different access levels.
 Profit and Loss Reports: Generate reports to calculate overall profit and loss based on sales and purchases.
